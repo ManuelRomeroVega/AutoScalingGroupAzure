@@ -1,2 +1,2 @@
 # AutoScalingGroupAzure
-Script para automatizar el tamaño de las VMs de Azure.
+Desarrollé un script para ajustar dinámicamente el tamaño de una máquina virtual de Azure según las necesidades del cliente. Este script se ejecutaba automáticamente en función de una fecha específica, utilizando Azure Runbooks para orquestar el proceso. La solución permitió optimizar los recursos y costos, asegurando que las máquinas virtuales se ajustaran a los requisitos de rendimiento en momentos críticos.
